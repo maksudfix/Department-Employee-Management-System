@@ -13,28 +13,6 @@ A simple C# Console Application that manages department information and displays
 * Use `foreach` to display employee records
 * Use console colors for presentation
 
-## Code Structure
-
-Employee
- ├── ID
- ├── Name
- ├── Position
- └── Employee()
-
-Department
- ├── DepartmentName
- ├── Employees
- ├── Department()
- └── DisplayEmployees()
-       └── foreach Employee
-
-Information
- └── Main()
-      ├── Create Employee List
-      ├── Create Department
-      └── Display Department & Employees
-
-
 ## Concepts Used
 
 * Classes & Objects — `Employee` and `Department` represent application data.
